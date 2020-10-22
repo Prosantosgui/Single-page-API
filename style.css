@@ -1,0 +1,186 @@
+body{
+    width: 1024px;
+    margin: 0 auto;
+    background-image: url("https://w.wallhaven.cc/full/0j/wallhaven-0jzr7m.png");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+input{
+    border-radius: 10px;
+}
+#container{
+    width: 1024px;
+}
+p{
+    font-style: italic;
+    font-weight: 500;
+}
+.pfooterL{
+ display: inline;
+}
+.pfooterC{
+display: inline;
+padding-left: 180px;
+}
+.pfooterR{
+float: right;
+}
+h1{
+    display: none;
+}
+h2{
+    text-align: center;
+    margin-top: 2px;
+    font-size: 30px;
+}
+h3{
+    color: blanchedalmond;
+    font-size: 50px;
+    padding-top: 10px;
+}
+#person img:hover {
+    transform: scale(1.3);
+    transition: 1s;
+}
+body a:hover{
+    color: red;
+}
+.Lsection{
+     float: left; 
+    background-color: cornsilk;
+    border: black 2px solid;
+    margin-top: 10px;
+}
+.SectionP{
+    width: 40%;
+    font-size: 1.5em;
+    margin-top: 70px;
+    margin-left: 30px;
+
+}
+.menu{
+    background-color: wheat;
+    display: flex;
+    margin: 0 auto;
+    border: teal solid 1px;
+    width: 95%;
+    padding: 1em;
+    border: double 3px black;
+}
+.homeul{
+    list-style-type: none;
+    display: inline-block;
+    padding-right: 40px;
+    padding-left: 40px;
+    margin: 0 auto;
+}
+#person{
+    width: 100%;
+    background-image: url("https://i.pinimg.com/originals/ee/ae/39/eeae39aea1ae0bb638aff1bc3ccee0b9.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    border-radius: 15px;
+    margin-top: 280px;
+    text-align: center;
+    position: relative;
+    top: 0px;
+}
+.hdiv{
+    box-sizing: content-box;
+    padding-bottom: 6px;
+}
+.himg{
+    width: 50%;
+    float: right;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    margin-top: 10px;
+    border: black solid 1px;
+
+}
+#contato{
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 0 auto;
+    width: 45%;
+}
+#email{
+    margin-left: 3.6px;
+}
+.menuindv{
+    background-color: wheat;
+    display: flex;
+    margin: 0 auto;
+    border: teal solid 1px;
+    width: 95%;
+    padding: 1em;
+    border: double 3px black;
+}
+
+.lipers{
+    display: inline-block;
+    list-style-type: none;
+    padding-left: 14px;
+}
+.lipersbtn{
+    display: inline-block;
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+option{
+    width: 60px;
+}
+footer{
+    background-color: lightgreen;
+    border: 0.5px solid black;
+    padding: 3px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+form{
+    border: solid black;
+    margin: 0 auto;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    padding: 1em;
+    width: 380px;
+    height: 150px;
+    border-radius: 1em;
+    background-color: orange;
+
+}
+h4{
+    text-align: center; 
+    margin: 10px auto;
+}
+.ATsection{
+    margin: 10px auto; 
+    padding: 10px; 
+    text-align: justify; 
+    background-color: cornsilk; 
+    border: black solid 2px;
+}
+.ATask{
+    margin: 10px 10px;
+    font-weight: bold;
+}
+.ATp{
+    margin: 5px 10px;
+}
+.ATul{
+    margin: 0 25px;
+    list-style: square;
+}
+#contact{
+    background-color: cornsilk;
+    width: 30%;
+    padding: 5px;
+    border: 2px solid black;
+    margin: 10px auto;
+}
