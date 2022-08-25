@@ -5,3 +5,6 @@ This page was built without frameworks, just pure JavaScript and CSS.
 
 Uma single page com uso de API Rick and Morty.
 Essas páginas foram feitas sem frameworks, apenas com JavaScript e CSS puro.
+
+Link para a página inicial abaixo:
+https://prosantosgui.github.io/Single-page-API/home
